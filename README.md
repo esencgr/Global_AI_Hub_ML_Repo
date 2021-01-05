@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GLOBAL AI HUB COURSE DETAILS
 ![](img/logo.png)
 
 **Course Date:**
